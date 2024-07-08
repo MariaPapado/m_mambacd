@@ -1,0 +1,6 @@
+python ./changedetection/script/train_MambaSCD.py  --dataset 'SECOND' --batch_size 4 --crop_size 256 --max_iters 800000 --model_type MambaSCD_Small --model_param_path '/notebooks/MambaCD/changedetection/saved_models' --train_dataset_path '/notebooks/SECOND/train' --train_data_list_path '/notebooks/SECOND/list/train_list.txt' --test_dataset_path '/notebooks/SECOND/hold' --test_data_list_path '/notebooks/SECOND/list/hold_list.txt' --cfg '/notebooks/MambaCD/changedetection/configs/vssm1/vssm_small_224.yaml' --pretrained_weight_path '/notebooks/MambaCD/pretrained_weights/vssm_small_0229_ckpt_epoch_222.pth'
+
+
+
+
+python ./changedetection/script/train_MambaSCD.py  --dataset 'hi_respect' --batch_size 4 --crop_size 256 --max_iters 800000 --model_type MambaSCD_Small --model_param_path '/notebooks/MambaCD/changedetection/saved_models' --train_dataset_path '/notebooks/hi_respect/train' --train_data_list_path '/notebooks/hi_respect/list/train_list.txt' --test_dataset_path '/notebooks/hi_respect/val' --test_data_list_path '/notebooks/hi_respect/list/val_list.txt' --cfg '/notebooks/MambaCD/changedetection/configs/vssm1/vssm_small_224.yaml' --resume '/notebooks/backup/changedetection/saved_models/SECOND/MambaSCD_Small_1717497307.7244835/20000_model__K37_F649_iou74_sek25.pth'

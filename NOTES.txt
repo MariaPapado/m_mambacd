@@ -1,0 +1,12 @@
+model trained first on SECOND dataset with random crop of 256 and lr=1e-4
+
+model initialized with SECOND weights and trained again on hi_respect with random crop 256 and lr=1e-6*5 
+
+
+--> trained_weights on hi_respect v1 test_set:
+2800_model.pth: 
+Kappa coefficient rate is 0.3306091870941609, F1 is 0.7051152032405876, OA is 0.9504046189157584, mIoU is 0.7888622368925993, SeK is 0.22715632488836626
+
+
+3400_model.pth:
+Kappa coefficient rate is 0.3293255737523702, F1 is 0.7046577688989125, OA is 0.9503533212762129, mIoU is 0.7880380116255248, SeK is 0.2259301941349089
