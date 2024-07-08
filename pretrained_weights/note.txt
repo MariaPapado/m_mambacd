@@ -1,1 +1,1 @@
-weights are in /home/mariapap/MY_GITLAB_REPOS/GITM/m_mambacd
+weights are in /cephfs/work/maria/m_mambacd
