@@ -1,1 +1,7 @@
 weights are in /cephfs/work/maria/m_mambacd
+
+20000_model__K37_F649_iou74_sek25.pth is the pretrained on SECOND dataset
+
+2800 best
+3400 second best
+
