@@ -6,8 +6,7 @@ model initialized with SECOND weights and trained again on hi_respect with rando
 
 --> trained_weights on hi_respect v1 test_set:
 2800_model.pth: 
-Kappa coefficient rate is 0.3306091870941609, F1 is 0.7051152032405876, OA is 0.9504046189157584, mIoU is 0.7888622368925993, SeK is 0.22715632488836626
-
+Kappa coefficient rate is 0.35581318741352247, F1 is 0.7214567447732192, OA is 0.9519452546772202, mIoU is 0.7888600449230905, SeK is 0.24447272202579137
 
 3400_model.pth:
-Kappa coefficient rate is 0.3293255737523702, F1 is 0.7046577688989125, OA is 0.9503533212762129, mIoU is 0.7880380116255248, SeK is 0.2259301941349089
+Kappa coefficient rate is 0.3534294514895839, F1 is 0.7200026771420069, OA is 0.9517967575474787, mIoU is 0.7880353339159958, SeK is 0.24246537735230403
