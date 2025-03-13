@@ -10,3 +10,11 @@ Kappa coefficient rate is 0.35581318741352247, F1 is 0.7214567447732192, OA is 0
 
 3400_model.pth:
 Kappa coefficient rate is 0.3534294514895839, F1 is 0.7200026771420069, OA is 0.9517967575474787, mIoU is 0.7880353339159958, SeK is 0.24246537735230403
+
+
+to montelo sto training aspoume gia ta parapanw apotelesmata eixe deiksei sto validation:
+  2%|███▎                                                                                                                                                                                                         | 3199/200000 [26:27<24:18:03,  2.25it/s]iter is 3200, change detection loss is 0.38815838098526, classification loss is 0.7174690365791321
+---------starting evaluation-----------
+Kappa coefficient rate is 0.20800029053425775, F1 is 0.6303827609820872, OA is 0.9461113876766627, mIoU is 0.7205667841209492, SeK is 0.12556837142962224
+  2%|███▎                                                                                                                                                                                                         | 3209/200000 [26:43<31:47:14,  1.72it/s]iter is 3210, change detection loss is 0.4144443869590759, classification loss is 0.44997113943099976
+  2%|███▎                                                                                                           
